@@ -1,4 +1,4 @@
-import { supabase } from "../../integrations/supabase/client";
+import { supabase } from "../integrations/supabase/client";
 
 async function updateUserToAdmin(userId: string) {
   try {
