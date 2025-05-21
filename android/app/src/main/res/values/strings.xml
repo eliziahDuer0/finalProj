@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Click &amp; Carry</string>
+    <string name="title_activity_main">Click &amp; Carry</string>
+    <string name="package_name">com.clickandcarry.app</string>
+    <string name="custom_url_scheme">com.clickandcarry.app</string>
+</resources>
